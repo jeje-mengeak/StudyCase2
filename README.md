@@ -8,7 +8,8 @@ Project ini adalah website Profile Card interaktif yang menampilkan informasi an
 
 <!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
 
-![Screenshot](link-screenshot-kamu.png)
+![Screenshot](<img width="953" height="448" alt="image" src="https://github.com/user-attachments/assets/876adfca-230e-4ac2-aafd-99754d0380a1" />
+)
 
 ---
 
