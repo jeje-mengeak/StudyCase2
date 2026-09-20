@@ -8,7 +8,7 @@ Project ini adalah website Profile Card interaktif yang menampilkan informasi an
 
 <!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
 
-![image alt]([<img width="953" height="448" alt="Hasil Visualisasi Website" src="https://github.com/user-attachments/assets/c695bb0b-e656-4f6c-84be-ef0fa3234206" />](https://github.com/jeje-mengeak/StudyCase2/blob/3c4f4fcfd6cacfe184ff785adfa00ae55e21d214/Hasil%20Visualisasi%20Website.png)
+([<img width="953" height="448" alt="Hasil Visualisasi Website" src="https://github.com/user-attachments/assets/c695bb0b-e656-4f6c-84be-ef0fa3234206" />](https://github.com/jeje-mengeak/StudyCase2/blob/3c4f4fcfd6cacfe184ff785adfa00ae55e21d214/Hasil%20Visualisasi%20Website.png)
 
 ---
 
