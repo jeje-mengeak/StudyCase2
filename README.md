@@ -1,7 +1,6 @@
 # Overview
 
-Project ini adalah website Profile Card interaktif yang menampilkan informasi anggota dengan navigasi antar profil. Project ini dibuat sebagai study case Workshop Git & GitHub untuk menerapkan kolaborasi menggunakan Git, GitHub, HTML, CSS, dan JavaScript.
-
+Project ini adalah website Profile Card interaktif yang menampilkan informasi anggota dengan navigasi antar profil. Project ini dibuat sebagai study case Workshop Git & GitHub.
 ---
 
 ## Visualisasi
